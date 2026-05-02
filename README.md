@@ -1,25 +1,27 @@
-Heart Disease Analysis
+# Heart Disease Analysis
 
-This project analysis a heart disease dataset using Python to identify key health factors affecting heart disease.
+## About This Project
+I analyzed a heart disease dataset using Python to find which health factors affect heart disease risk.
 
+## Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-Tools Used
+## What I Did
+- Loaded the heart disease dataset and explored the data
+- Cleaned missing values and handled data issues
+- Performed Exploratory Data Analysis (EDA)
+- Created charts and visualizations to find patterns
 
- * Python
- * Pandas
- * NumPy
- * Matplotlib
- * Seaborn
+## What I Found
+- Age and cholesterol levels affect heart disease risk
+- Chest pain type is an important risk indicator
+- Visualizations helped identify patterns in at-risk patient groups
 
-
-Project Steps
-
- > Loaded the heart disease dataset 
- > Cleaned missing data
- > Performed exploratory data analysis
- > Created visualizations and charts
-
-Key Insights
-
-  > Age and cholesterol levels influence heart disease risk.
-  > Data visualization helps understand health patterns.
+## Files in This Project
+- `Heart_Disease_analysis.csv` — dataset used for analysis
+- `README.md` — project overview
+- Screenshots — charts and visualizations from the analysis
